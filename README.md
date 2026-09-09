@@ -9,6 +9,6 @@ $ pip install -r requirements.txt
 $ python main.py
 ```
 
-### References
+## References
 - https://docs.python.org/3/library/tkinter.html
 - https://requests.readthedocs.io/en/latest/user/quickstart/
